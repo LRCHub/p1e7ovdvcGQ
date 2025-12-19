@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "泣かないで",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-19T14:45:18.260858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "泣かないで、ウクライナ",
+      "artist": "Jerry Heil",
+      "has_synced": false,
+      "path": "select/01_泣かないで、ウクライナ_Jerry_Heil.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "Masayoshi Takanaka",
+      "has_synced": false,
+      "path": "select/02_泣かないで_Masayoshi_Takanaka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "ステレオポニー",
+      "has_synced": true,
+      "path": "select/03_泣かないで_ステレオポニー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/04_泣かないで_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "高中正義",
+      "has_synced": false,
+      "path": "select/05_泣かないで_高中正義.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "Shiruetto",
+      "has_synced": true,
+      "path": "select/06_泣かないで_Shiruetto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": true,
+      "path": "select/07_泣かないで_Mayumi_Itsuwa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "五輪 真弓",
+      "has_synced": true,
+      "path": "select/08_泣かないで_五輪_真弓.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "五輪真弓",
+      "has_synced": true,
+      "path": "select/09_泣かないで_五輪真弓.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nakanaide (泣かないで)",
+      "artist": "Golden Bomber (ールデンボンバー)",
+      "has_synced": true,
+      "path": "select/10_Nakanaide_(泣かないで)_Golden_Bomber_(ールデンボンバー).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "Mayumi Itsuwa (五輪真弓)",
+      "has_synced": true,
+      "path": "select/11_泣かないで_Mayumi_Itsuwa_(五輪真弓).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "泣かないで",
+      "artist": "アフロマニア",
+      "has_synced": false,
+      "path": "select/12_泣かないで_アフロマニア.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣かないで",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_泣かないで_ゴールデンボンバー.txt"
+    }
+  ]
+}
